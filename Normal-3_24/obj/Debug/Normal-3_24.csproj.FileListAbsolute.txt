@@ -1,0 +1,7 @@
+C:\Users\Polzovatel\source\repos\Normal-3_24\Normal-3_24\bin\Debug\Normal-3_24.exe.config
+C:\Users\Polzovatel\source\repos\Normal-3_24\Normal-3_24\bin\Debug\Normal-3_24.exe
+C:\Users\Polzovatel\source\repos\Normal-3_24\Normal-3_24\bin\Debug\Normal-3_24.pdb
+C:\Users\Polzovatel\source\repos\Normal-3_24\Normal-3_24\obj\Debug\Normal-3_24.csprojAssemblyReference.cache
+C:\Users\Polzovatel\source\repos\Normal-3_24\Normal-3_24\obj\Debug\Normal-3_24.csproj.CoreCompileInputs.cache
+C:\Users\Polzovatel\source\repos\Normal-3_24\Normal-3_24\obj\Debug\Normal-3_24.exe
+C:\Users\Polzovatel\source\repos\Normal-3_24\Normal-3_24\obj\Debug\Normal-3_24.pdb
